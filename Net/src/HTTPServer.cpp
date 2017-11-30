@@ -17,7 +17,6 @@
 
 
 namespace Poco {
-namespace Net {
 
 
 HTTPServer::HTTPServer(HTTPRequestHandlerFactory::Ptr pFactory, Poco::UInt16 portNumber, HTTPServerParams::Ptr pParams):
